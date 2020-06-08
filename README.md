@@ -27,13 +27,6 @@ python evaluate_v2.py
 python city_map_builder.py
 ```
 
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-
-
 ## Authors
 
 * **Zonglin Li** - [Zonglin](https://github.com/zjackli)
