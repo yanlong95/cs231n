@@ -5,7 +5,7 @@ In this project, a new approach that classifies the building instance category b
 
 
 ## Running the Code
-put the dataset in the 'dataset' directory 
+put the dataset in the 'dataset' directory before training
 
 ### Train and evaluate the model
 
